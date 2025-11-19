@@ -1,2 +1,0 @@
-# FrontPage
-verite front page
